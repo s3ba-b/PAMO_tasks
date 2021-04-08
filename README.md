@@ -9,5 +9,12 @@ An application with a view in which, after entering the weight and height, we ge
 Just start the app in Android Studio.
 #### Programming language
 Java, XML
+### BMI Calculator (Extended)
+#### Description
+An application that presents the user with his BMI, recommended calories and a recommended dish for his condition (based on BMI).
+#### How to run
+Just start the app in Android Studio.
+#### Programming language
+Java, XML
 ## Author of solutions
 Sebastian Bobrowski - s17603@pjwstk.edu.pl
