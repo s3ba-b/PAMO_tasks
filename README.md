@@ -11,7 +11,7 @@ Just start the app in Android Studio.
 Java, XML
 ### BMI Calculator (Extended)
 #### Description
-An application that presents the user with his/her BMI, recommended calories and a recommended dish for his condition (based on BMI).
+An application that presents the user with his/her BMI, recommended calories and a recommended dish for his/her condition (based on BMI).
 #### How to run
 Just start the app in Android Studio.
 #### Programming language
