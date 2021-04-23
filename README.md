@@ -14,6 +14,13 @@ Java, XML
 An application that presents the user with his/her BMI, recommended calories and a recommended dish for his/her condition (based on BMI).
 #### How to run
 Just start the app in Android Studio.
+### Covid Charts and Quiz (Extended third time)
+#### Description
+This time, covid charts and a quiz have been added to the application.
+#### How to run
+Just start the app in Android Studio.
+#### Data sources
+Quiz: "Covid" on Wikipedia - Charts: "Przypadki zachorowań covid" (ang. "covid cases") from Google.
 #### Programming language
 Java, XML
 ## Author of solutions
