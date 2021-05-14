@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Zadanie4</string>
+    <string name="correct"><b>CORRECTNESS IS</b> \n
+                           <b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">Covid is not infectious disease of the respiratory system.</string>
+    <string name="b">It was first recognized and described in November 2019 in central China</string>
+    <string name="c">The standard method of diagnosing an infection is the RT-qPCR test</string>
+    <string name="d">Most patients do not have any symptoms.</string>
+    <string name="e">The developing virus infection can lead to pneumonia.</string>
+    <string name="f">The most common hatching period for the virus is up to 8 days.</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+</resources>
